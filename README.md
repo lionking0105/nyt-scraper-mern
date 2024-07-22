@@ -56,14 +56,3 @@ https://docs.mongodb.com/manual/installation/
 * [morgan](https://www.npmjs.com/package/morgan) - Logging middleware
 * [morgan-body](https://www.npmjs.com/package/morgan-body) - Logging middleware
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom) - Routing library for React with DOM bindings
-
-
-## Author :key:
-* **Nicholas Fleischhauer** - [Unobtainiumrock](https://github.com/Unobtainiumrock)
-* **Eric Ng** - [EricNg314](https://github.com/EricNg314)
-* **Robert Shaw** - [robertshaw87](https://github.com/robertshaw87)
-* **Jimmy Tu** - [jimmytutron](https://github.com/jimmytutron)
-
-
-## Acknowledgments :pray:
-A _bigly_ thank you to our instructor, Jerome, and the TAs, Amber, Ricky, and Sasha!!  :grimacing:
